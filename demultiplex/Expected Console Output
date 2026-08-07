@@ -1,0 +1,7 @@
+D S1 S0 | Y0 Y1 Y2 Y3
+----------------------
+1  0  0 | 1  0  0  0
+1  0  1 | 0  1  0  0
+1  1  0 | 0  0  1  0
+1  1  1 | 0  0  0  1
+If D = 0, all outputs remain 0 regardless of the select lines.
